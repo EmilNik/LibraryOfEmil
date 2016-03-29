@@ -3,7 +3,7 @@ Library Of Emil
 
 Overview
 --------
-This is an open source implementation of the [Library of Babel](libraryofbabel.info).
+This is an open source implementation of the [Library of Babel](http://libraryofbabel.info).
 
 About
 --------
