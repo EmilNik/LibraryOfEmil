@@ -2224,3 +2224,8 @@ div.concealerover {
         left:0px;
     }
 }
+
+li.index {
+     text-align:left;  
+     position: relative;
+}
